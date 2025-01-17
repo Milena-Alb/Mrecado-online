@@ -1,0 +1,18 @@
+:root {
+    --bodyBackground: #FCF5D8;
+    --bodyTextColor: #390D04;
+    --topNavBackground: #79A206;
+    --topNavColor: #FFF8EA;
+    --topBarLinkHoverBackground: #d8e700;
+    --splashTextColor: #0e5f00;
+    --cartBackground: #001;
+    --cartTitleBackground: #335;
+    --footerBackground: #792e4f;
+    --spashBackground: #390D04;
+    --splashTextShadow: rgb(0, 0, 0);
+    --cardTextColor: #280D14;
+    --cardBackground: #FAF2C3;
+    /* --unusedCardColor: #F8ED94; */
+    --cardBorder: #F6E57B;
+    --cardHeaderBackground: #f1f500;
+}
